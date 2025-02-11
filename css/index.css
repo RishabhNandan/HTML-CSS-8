@@ -2,7 +2,7 @@
 .class{
     display: flex; 
     margin-left: 50px;
-}
+} 
 .nav-items{
     display: flex;
     justify-content: space-between;
