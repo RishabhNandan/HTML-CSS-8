@@ -6,7 +6,7 @@ The project is designed to showcase a featured product (Wireless Headphones) in 
 * Type: E-commerce Product Landing Page
 * Product Featured: Wireless Headphone
 * Purpose: To showcase a new product with a promotional discount.
-* Design: Minimalistic and modern UI with a clean white background.
+* Design: Minimalistic and modern UI with a clean white background. 
 
 # Features
 - **Responsive Design** – Ensures compatibility across different devices.
